@@ -1,0 +1,48 @@
+AuthorName: Pushkin
+BookName: Captain_daugther
+Publisher: VLADOS
+Year: 1919
+Pages: 2020
+
+AuthorName: Pushkin
+BookName: Prorok
+Publisher: Vlados
+Year: 1929
+Pages: 2020
+
+AuthorName: Pushkin
+BookName: Metel'
+Publisher: VLAD
+Year: 2020
+Pages: 2020
+
+AuthorName: Tolstoy
+BookName: War_and_earth
+Publisher: VLADOS
+Year: 1010
+Pages: 2020
+
+AuthorName: Pushkin
+BookName: Captain_daugther
+Publisher: VLADOS
+Year: 1919
+Pages: 2020
+
+AuthorName: Pushkin
+BookName: Metel'
+Publisher: VLAD
+Year: 2020
+Pages: 2020
+
+AuthorName: Pushkin
+BookName: Prorok
+Publisher: Vlados
+Year: 1929
+Pages: 2020
+
+AuthorName: Tolstoy
+BookName: War_and_earth
+Publisher: VLADOS
+Year: 1010
+Pages: 2020
+
